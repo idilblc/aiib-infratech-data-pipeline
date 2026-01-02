@@ -1,5 +1,3 @@
-# aiib-infratech-data-pipeline
-AIIB Infratech Portal 
 # AIIB InfraTech Portal – Python Data Pipeline
 
 This project demonstrates a Python-based data analytics pipeline built to collect,
